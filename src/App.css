@@ -1,0 +1,45 @@
+.formu {
+    background-color:#9ad2af ;
+}
+.contador {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.comprar {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.mensaje {
+    font-weight: bold;
+}
+
+.productos {
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.cargando {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.RegistroPage {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nombreLogin {
+    font-size: 20px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #000000;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: none;
+}
+
